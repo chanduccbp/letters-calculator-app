@@ -1,0 +1,35 @@
+/* Write your code here. */
+
+.app-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  padding: 30px;
+  font-family: 'roboto';
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.input-el {
+  background-color: transparent;
+  outline: none;
+  border-color: #e4e7eb;
+}
+
+.label-el {
+  color: #ffffff;
+}
+
+.para {
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #219a6f;
+  width: 50%;
+  padding: 10px;
+  font-weight: bold;
+}
